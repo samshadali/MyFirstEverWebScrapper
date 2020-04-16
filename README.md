@@ -12,7 +12,7 @@ Now  Run .
 python3 MyFirstWebScrapper.py	 
 paste Your Wensite URL :       
 
-And Enter . Now Pray God for to get any Error. 
+And Enter . Now Pray God for to Not get any Error. 
 
 if run perfectly . Congratulations.. you got exact no. of img tags and anchor tags in Given URL . 
 Peace Out 
